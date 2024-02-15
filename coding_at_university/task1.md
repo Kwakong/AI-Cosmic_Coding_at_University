@@ -1,7 +1,7 @@
 # Task 1 - Clear the Path
 ### @flyoutOnly true
-### @hideIteration false
-### @explicitHints true
+### @hideIteration true
+### @explicitHints false
 
 
 
