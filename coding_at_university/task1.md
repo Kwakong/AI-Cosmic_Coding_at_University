@@ -12,9 +12,9 @@
    //     
 ```
 
-# Task #1
+### Task #1
 
-## Clear the Path
+### Clear the Path
 
 Looks like there are some blocks in your path. Use your Agent to break those blocks.
 
