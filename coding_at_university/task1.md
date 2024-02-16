@@ -1,4 +1,4 @@
-# Clear the Path
+# Task #1
 ### @flyoutOnly true
 ### @hideIteration true
 ### @explicitHints false
@@ -11,8 +11,6 @@
 ```template
    //     
 ```
-
-#  Task #1
 
 ##  Clear the Path
 
