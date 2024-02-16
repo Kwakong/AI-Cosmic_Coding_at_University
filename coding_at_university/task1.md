@@ -20,6 +20,8 @@ Looks like there are some blocks in your path. Use your Agent to break those blo
 
 Use ``||loops:loops||`` to speed up the process. 
 
+
+
 ``` blocks
     agent.destroy(FORWARD)
     agent.move(FORWARD, 1)
