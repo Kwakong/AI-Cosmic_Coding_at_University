@@ -1,11 +1,16 @@
-# Gather the Materials
-### @flyoutOnly true
-### @hideIteration false
-### @explicitHints true
-
-
-
 # Task #4
+### @flyoutOnly true
+### @hideIteration true
+### @explicitHints false
+
+``` ghost
+    for (let index = 0; index < 1; index++) {
+        agent.move(FORWARD, 1)
+    }
+```
+```template
+   //     
+```
 
 ## Gather the Materials
 
