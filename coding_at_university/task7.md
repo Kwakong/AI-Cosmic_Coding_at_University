@@ -1,10 +1,16 @@
-# Build a Bridge
-### @flyoutOnly true
-### @hideIteration false
-### @explicitHints true
-
-
 # Task #7
+### @flyoutOnly true
+### @hideIteration true
+### @explicitHints false
+
+``` ghost
+    for (let index = 0; index < 1; index++) {
+        agent.move(FORWARD, 1)
+    }
+```
+```template
+   //     
+```
 
 ## Build a Bridge
 
