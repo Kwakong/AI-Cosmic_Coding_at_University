@@ -1,10 +1,16 @@
-# Food Detection System
+# Bonus Task
 ### @flyoutOnly true
-### @hideIteration false
-### @explicitHints true
+### @hideIteration true
+### @explicitHints false
 
-
-# Last Task 
+``` ghost
+    for (let index = 0; index < 1; index++) {
+        agent.move(FORWARD, 1)
+    }
+```
+```template
+   //     
+```
 
 ## Food Detection System
 
