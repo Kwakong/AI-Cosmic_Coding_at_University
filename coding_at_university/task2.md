@@ -1,6 +1,6 @@
 # Task #2
 ### @flyoutOnly true
-### @hideIteration true
+### @hideIteration false
 ### @explicitHints false
 
 ``` ghost
