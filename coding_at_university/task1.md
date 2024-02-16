@@ -24,8 +24,6 @@ Use ``||loops:loops||`` to speed up the process.
     agent.destroy(FORWARD)
     agent.move(FORWARD, 1)
 ```
-```
-```
 ``` blocks
 for (let index = 0; index < 1; index++) {
 }
