@@ -3,18 +3,26 @@
 ### @hideIteration true
 ### @explicitHints false
 
+```` ghost
+    for (let index = 0; index < 1; index++) {
+        agent.move(FORWARD, 1)
+    }
+```
+```template
+   //     
+```
 
-## Task #1
+#  Task #1
 
-## Clear the Path
+##  Clear the Path
 
 Looks like there are some blocks in your path. Use your Agent to break those blocks.
 
-### ~ Hint 
+###  ~ Hint 
 
 Use ``||loops:loops||`` to speed up the process. 
 
-```  blocks
+``` blocks
     agent.destroy(FORWARD)
     agent.move(FORWARD, 1)
 ```
@@ -24,6 +32,6 @@ Use ``||loops:loops||`` to speed up the process.
 for (let index = 0; index < 1; index++) {
 }
 ```
-```package
+``` package
 github:kwakong/ai-cosmic_coding_at_university
 ```
