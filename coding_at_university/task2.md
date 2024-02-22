@@ -18,7 +18,8 @@ You have to fix the intercom. Use the concrete you have found to make your Agent
 
 ### ~ Hint 
 
-If something is wrong you can always use button **"reset"** positioned on middle of room, to reset task and start again. 
+If something is wrong you can always use button **"reset"** positioned on middle of room, to reset task and start again.
+Remember to select the slot that the Agent must use to place the block.
 
 
 ```typescript-valid
