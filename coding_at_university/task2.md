@@ -12,14 +12,14 @@
    //     
 ```
 
-## Fix the Intercom
+## Fix the Speaker
 
-You have to fix the intercom. Use the concrete you have found to make your Agent match them to the corresponding colour.
+You have to fix the speaker. Use the concrete you have found to make your Agent match them to the corresponding colour.
+If something goes wrong, try again using a different route, or bypass the task by talking to Lady Lila again
 
 ### ~ Hint 
 
-If something is wrong you can always use button **"reset"** positioned on middle of room, to reset task and start again.
-Remember to select the slot that the Agent must use to place the block.
+Remember that this task does not have one specific path to choose from. Choose the path that suits you! 
 
 
 ```typescript-valid
