@@ -15,7 +15,7 @@
 ## Fix the Speaker
 
 You have to fix the speaker. Use the concrete you have found to make your Agent match them to the corresponding colour.
-If something goes wrong, try again using a different route, or bypass the task by talking to Lady Lila again
+If something goes wrong, try again using a different route, or bypass the task by talking to Lady Lila again.
 
 ### ~ Hint 
 
