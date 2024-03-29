@@ -41,9 +41,6 @@ agent.move(FORWARD, 1)
 agent.place(DOWN)
 agent.move(FORWARD, 1)
 ```
-``` blocks
-for (let index = 0; index < 1; index++) {
-```
 ```
 ```
 ```typescript-valid
