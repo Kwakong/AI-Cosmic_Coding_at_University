@@ -6,6 +6,9 @@
 ``` ghost
     for (let index = 0; index < 1; index++) {
         agent.move(FORWARD, 1)
+        agent.destroy(FORWARD)
+        agent.collectAll()
+        agent.turn(RIGHT_TURN)
     }
 ```
 ```template
