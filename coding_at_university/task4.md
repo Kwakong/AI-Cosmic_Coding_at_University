@@ -6,6 +6,8 @@
 ``` ghost
     for (let index = 0; index < 1; index++) {
         agent.move(FORWARD, 1)
+        agent.destroy(FORWARD)
+        agent.collectAll()
     }
 ```
 ```template
@@ -14,7 +16,7 @@
 
 ## Gather the Materials
 
-Navigate the Agent through the maze and gather all the necessary parts! After your robot collect needed items, talk with ``||Professor Assistant||``.
+Navigate the Agent through the maze and gather all the necessary parts! To take an item, use the command ``||agent.destroy||``. After your robot collect needed items, talk with ``||Professor Assistant||``.
 
 ### ~ Hint 
 
