@@ -52,7 +52,7 @@ agent.turn(RIGHT_TURN)
 agent.move(FORWARD, 1)
 agent.turn(LEFT_TURN)
 agent.move(FORWARD, 2)
-agent.setSlot(2)
+agent.setSlot(1)
 agent.place(FORWARD)
 ```
 ```
@@ -72,7 +72,7 @@ agent.turn(LEFT_TURN)
 agent.move(FORWARD, 1)
 agent.turn(RIGHT_TURN)
 agent.move(FORWARD, 1)
-agent.setSlot(3)
+agent.setSlot(1)
 agent.place(FORWARD)
 ```
 ```
