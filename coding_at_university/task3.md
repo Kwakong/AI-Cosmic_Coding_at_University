@@ -1,6 +1,6 @@
 # Task #3
 ### @flyoutOnly true
-### @hideIteration true
+### @hideIteration false
 ### @explicitHints false
 
 ```template
