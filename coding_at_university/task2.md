@@ -14,7 +14,7 @@
 
 ## Fix the Speaker
 
-You have to fix the speaker. Use the concrete you have found to make your Agent match them to the corresponding colour.
+You have to fix the speaker. Use the three found blocks to make your Agent put them in the right places.
 If something goes wrong, try again using a different route. If you put up a block incorrectly, you can also destroy it with an Agent.
 
 ### ~ Hint 
@@ -23,7 +23,7 @@ Remember that this task does not have one specific path to choose from. Choose t
 
 
 ```typescript-valid
-Solution to put red concrete
+Solution to put the first block on the left
 ```
 ``` blocks
 agent.move(FORWARD, 2)
@@ -42,7 +42,7 @@ agent.place(FORWARD)
 ```
 ```
 ```typescript-valid
-Solution to put yellow concrete
+Solution to put the second block in the middle
 ```
 ``` blocks
 agent.move(FORWARD, 2)
@@ -58,7 +58,7 @@ agent.place(FORWARD)
 ```
 ```
 ```typescript-valid
-Solution to put lime concrete
+Solution to put the third block on the right
 ```
 ``` blocks
 agent.move(FORWARD, 5)
