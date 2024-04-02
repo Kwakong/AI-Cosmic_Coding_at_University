@@ -1,6 +1,6 @@
 # Task #4
 ### @flyoutOnly true
-### @hideIteration true
+### @hideIteration false
 ### @explicitHints false
 
 ``` ghost
@@ -34,6 +34,7 @@ agent.turn(LEFT_TURN)
 agent.move(FORWARD, 3)
 agent.turn(LEFT_TURN)
 agent.move(FORWARD, 3)
+agent.destroy(FORWARD)
 agent.collectAll()
 ```
 ```
@@ -47,6 +48,7 @@ agent.turn(RIGHT_TURN)
 agent.move(FORWARD, 5)
 agent.turn(LEFT_TURN)
 agent.move(FORWARD, 4)
+agent.destroy(FORWARD)
 agent.collectAll()
 ```
 ```
@@ -64,6 +66,7 @@ agent.turn(LEFT_TURN)
 agent.move(FORWARD, 2)
 agent.turn(LEFT_TURN)
 agent.move(FORWARD, 2)
+agent.destroy(FORWARD)
 agent.collectAll()
 ```
 ```package
