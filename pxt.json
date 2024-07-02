@@ -24,7 +24,16 @@
         "croatian/ai-cosmic/task5.md",
         "croatian/ai-cosmic/task6.md",
         "croatian/ai-cosmic/task7.md",
-        "croatian/ai-cosmic/tasklast.md"
+        "croatian/ai-cosmic/tasklast.md",
+        "latvian/ai-cosmic/starting_code.md",
+        "latvian/ai-cosmic/task1.md",
+        "latvian/ai-cosmic/task2.md",
+        "latvian/ai-cosmic/task3.md",
+        "latvian/ai-cosmic/task4.md",
+        "latvian/ai-cosmic/task5.md",
+        "latvian/ai-cosmic/task6.md",
+        "latvian/ai-cosmic/task7.md",
+        "latvian/ai-cosmic/tasklast.md"
     ],
     "testFiles": [
         "test.ts"
