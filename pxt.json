@@ -24,8 +24,7 @@
         "croatian/ai-cosmic/task5.md",
         "croatian/ai-cosmic/task6.md",
         "croatian/ai-cosmic/task7.md",
-        "croatian/ai-cosmic/tasklast.md",
-
+        "croatian/ai-cosmic/tasklast.md"
     ],
     "testFiles": [
         "test.ts"
