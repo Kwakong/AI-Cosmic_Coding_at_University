@@ -15,7 +15,9 @@
         "coding_at_university/task5.md",
         "coding_at_university/task6.md",
         "coding_at_university/task7.md",
-        "coding_at_university/tasklast.md"
+        "coding_at_university/tasklast.md",
+
+        "Croatian/AI-Cosmic/starting_code.md"
     ],
     "testFiles": [
         "test.ts"
