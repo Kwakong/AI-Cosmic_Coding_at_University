@@ -7,13 +7,13 @@
    //     
 ```
 
-## Uključite prekidač
+## Accendi l'interruttore
 
-Morate voditi svog agenta vodoravno da biste otvorili vrata i vrata dizala.
+Devi guidare il tuo agente orizzontalmente per aprire la leva e le porte dell'ascensore.
 
-### ~ Savjet 
+### ~ Suggerimento 
 
-Prije obavljanja ovog zadatka provjerite jeste li razgovarali s ``||Puzzle Helperom||``.
+Prima di eseguire questa operazione, assicurarsi di aver parlato con ``||Aiutante di puzzle||``.
 
 
 ``` blocks
