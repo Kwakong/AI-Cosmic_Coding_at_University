@@ -25,7 +25,8 @@
         "latvian/coding_at_university/task5.md",
         "latvian/coding_at_university/task6.md",
         "latvian/coding_at_university/task7.md",
-        "latvian/coding_at_university/tasklast.md"
+        "latvian/coding_at_university/tasklast.md",
+        "task3_cr.md"
     ],
     "testFiles": [
         "test.ts"
