@@ -34,7 +34,25 @@
         "_locales/el/task5.md",
         "_locales/el/task6.md",
         "_locales/el/task7.md",
-        "_locales/el/tasklast.md"
+        "_locales/el/tasklast.md",
+        "_locales/it/starting_code.md",
+        "_locales/it/task1.md",
+        "_locales/it/task2.md",
+        "_locales/it/task3.md",
+        "_locales/it/task4.md",
+        "_locales/it/task5.md",
+        "_locales/it/task6.md",
+        "_locales/it/task7.md",
+        "_locales/it/tasklast.md",
+        "_locales/nl/starting_code.md",
+        "_locales/nl/task1.md",
+        "_locales/nl/task2.md",
+        "_locales/nl/task3.md",
+        "_locales/nl/task4.md",
+        "_locales/nl/task5.md",
+        "_locales/nl/task6.md",
+        "_locales/nl/task7.md",
+        "_locales/nl/tasklast.md"
     ],
     "testFiles": [
         "test.ts"
