@@ -52,16 +52,7 @@
         "_locales/nl/task5.md",
         "_locales/nl/task6.md",
         "_locales/nl/task7.md",
-        "_locales/nl/tasklast.md",
-        "croatian/starting_code.md",
-        "croatian/task1.md",
-        "croatian/task2.md",
-        "croatian/task3.md",
-        "croatian/task4.md",
-        "croatian/task5.md",
-        "croatian/task6.md",
-        "croatian/task7.md",
-        "croatian/tasklast.md"
+        "_locales/nl/tasklast.md"
     ],
     "testFiles": [
         "test.ts"
