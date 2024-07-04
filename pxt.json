@@ -25,16 +25,7 @@
         "latvian/coding_at_university/task5.md",
         "latvian/coding_at_university/task6.md",
         "latvian/coding_at_university/task7.md",
-        "latvian/coding_at_university/tasklast.md",
-        "croatian/coding_at_university/starting_code.md",
-        "croatian/coding_at_university/task1.md",
-        "croatian/coding_at_university/task2.md",
-        "croatian/coding_at_university/task3.md",
-        "croatian/coding_at_university/task4.md",
-        "croatian/coding_at_university/task5.md",
-        "croatian/coding_at_university/task6.md",
-        "croatian/coding_at_university/task7.md",
-        "croatian/coding_at_university/tasklast.md"
+        "latvian/coding_at_university/tasklast.md"
     ],
     "testFiles": [
         "test.ts"
