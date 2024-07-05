@@ -52,17 +52,7 @@
         "_locales/nl/coding_at_university/task5.md",
         "_locales/nl/coding_at_university/task6.md",
         "_locales/nl/coding_at_university/task7.md",
-        "_locales/nl/coding_at_university/tasklast.md",
-        "cr/coding_at_university/starting_code.md",
-        "cr/coding_at_university/task1.md",
-        "cr/coding_at_university/task2.md",
-        "cr/coding_at_university/task3.md",
-        "cr/coding_at_university/task4.md",
-        "cr/coding_at_university/task5.md",
-        "cr/coding_at_university/task6.md",
-        "cr/coding_at_university/task7.md",
-        "cr/coding_at_university/tasklast.md",
-        "task1_cr"
+        "_locales/nl/coding_at_university/tasklast.md"
     ],
     "testFiles": [
         "test.ts"
