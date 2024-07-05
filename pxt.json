@@ -53,7 +53,9 @@
         "_locales/nl/coding_at_university/task6.md",
         "_locales/nl/coding_at_university/task7.md",
         "_locales/nl/coding_at_university/tasklast.md",
-        "croatian/coding_at_university/task1.md"
+        "croatian/coding_at_university/task1.md",
+        "croatian/coding_at_university/task2.md",
+        "croatian/coding_at_university/task3.md"
     ],
     "testFiles": [
         "test.ts"
