@@ -52,7 +52,8 @@
         "_locales/nl/coding_at_university/task5.md",
         "_locales/nl/coding_at_university/task6.md",
         "_locales/nl/coding_at_university/task7.md",
-        "_locales/nl/coding_at_university/tasklast.md"
+        "_locales/nl/coding_at_university/tasklast.md",
+        "croatian/coding_at_university/task1.md"
     ],
     "testFiles": [
         "test.ts"
