@@ -1,7 +1,7 @@
 {
     "name": "ai-cosmic_coding_at_university",
-    "description": "",
     "version": "1.0.2",
+    "description": "",
     "dependencies": {
         "core": "*",
         "builder": "*"
@@ -61,13 +61,14 @@
         "croatian/coding_at_university/task5.md",
         "croatian/coding_at_university/task6.md",
         "croatian/coding_at_university/task7.md",
-        "croatian/coding_at_university/tasklast.md"
+        "croatian/coding_at_university/tasklast.md",
+        "_locales/pl-PL/coding_at_university/task1.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.7.28",
+        "target": "2.0.26",
         "targetId": "minecraft"
     },
     "supportedTargets": [

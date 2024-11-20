@@ -16,7 +16,7 @@
 
 Looks like there are some blocks in your path. Use your Agent to break those blocks.
 
-###  Hint 
+###  ~ Hint 
 
 Use ``||loops:loops||`` to speed up the process. 
 
